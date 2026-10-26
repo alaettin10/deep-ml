@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 4 problems · 0 labs · 5 math
+**11** solved · 5 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-25 | [solution](problems/0083-dot-product-calculator) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-24 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-25 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-26 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 
 ## Math
 
@@ -26,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-25 | [solution](math/0012-inverse-and-rank) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-25 | [solution](math/0010-matrix-multiplication) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-25 | [solution](math/0013-solving-linear-systems) |
+| [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-26 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 
 ---
 
